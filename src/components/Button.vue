@@ -36,7 +36,7 @@ $size: 64px;
   text-decoration: none;
   text-transform: uppercase;
   text-align: center;
-  margin: 10px;
+  margin: 12px;
   border-radius: 50%;
   border: 3px solid #ccc;
   box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.298039) inset,
