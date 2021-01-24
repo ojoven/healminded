@@ -1,15 +1,15 @@
 <template>
   <a href="#" class="btn btn-rating">
-    <ph-activity :size="48" color="#ccc" weight="fill" />
+    <ph-fingerprint :size="48" color="#ccc" weight="fill" />
   </a>
 </template>
 
 <script>
-import { PhActivity } from "phosphor-vue";
+import { PhFingerprint } from "phosphor-vue";
 export default {
   name: "App",
   components: {
-    PhActivity,
+    PhFingerprint,
   },
 };
 </script>

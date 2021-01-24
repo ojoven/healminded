@@ -43,7 +43,6 @@ $scale: 2;
     z-index: -1;
     animation-name: breathe;
     animation-duration: 8s;
-    animation-direction: alternate;
     animation-iteration-count: infinite;
   }
 }

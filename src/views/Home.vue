@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1>Heal Minded</h1>
-    <h2>A visual therapeutical experience to make your mind heal itself</h2>
+    <h2>A therapeutical digital experience<br />to help you feel better</h2>
     <BreathingCircle />
     <Button />
   </div>
